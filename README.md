@@ -1,4 +1,4 @@
-# little-code
+# VS Code Configuration and C++ Upload Practice
 
 这是我的第一个 C++ 练习项目。
 
